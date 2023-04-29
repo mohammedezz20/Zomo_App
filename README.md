@@ -1,7 +1,7 @@
-#Zomo <br>
+# Zomo <br>
 Zomo is a video meeting app similar to Zoom, offering easy virtual meetings, webinars, and events with high-quality audio and video. Stay connected and productive from anywhere with Zomo.
 
-##Features
+## Features
 - Google Sign In: Sign in to Zomo easily with your Google account.
 - Sign in with Email and Password: allows users to sign in to the app using their email and password.
 - Dark and Light Theme: allows users to switch between a dark and light theme for the app interface.
@@ -25,7 +25,7 @@ Zomo is a video meeting app similar to Zoom, offering easy virtual meetings, web
 - Notification to Remember You: sends a notification to the user at a designated time to remind them of the scheduled meeting.
 - Log out: Sign out of Zomo when you are finished using the app.
 
-##Packages:
+## Packages:
 - [firebase_core](https://pub.dev/packages/firebase_core):  This package provides Firebase Core integration, which is required for using other Firebase services.
 - [firebase_auth](https://pub.dev/packages/firebase_auth): This package provides Firebase Authentication integration.
 - [cloud_firestore](https://pub.dev/packages/cloud_firestore): This package provides Firebase Cloud Firestore integration.
